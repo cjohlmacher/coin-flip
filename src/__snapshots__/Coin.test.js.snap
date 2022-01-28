@@ -1,0 +1,29 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`matches snapshot when heads 1`] = `
+<DocumentFragment>
+  <div
+    class="Coin"
+  >
+    <img
+      alt="coin-heads"
+      class="Coin-Image"
+      src="https://images.pexels.com/photos/7702774/pexels-photo-7702774.jpeg?auto=compress&cs=tinysrgb&dpr=2&w=500"
+    />
+  </div>
+</DocumentFragment>
+`;
+
+exports[`matches snapshot when tails 1`] = `
+<DocumentFragment>
+  <div
+    class="Coin"
+  >
+    <img
+      alt="coin-tails"
+      class="Coin-Image"
+      src="https://images.pexels.com/photos/8466440/pexels-photo-8466440.jpeg?auto=compress&cs=tinysrgb&dpr=2&w=500"
+    />
+  </div>
+</DocumentFragment>
+`;

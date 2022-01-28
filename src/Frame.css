@@ -1,0 +1,12 @@
+.Frame-Button {
+    border-style: none;
+    border: solid 1px rgb(255,255,255,0);
+    border-radius: 10px;
+    background-color: rgba(207, 221, 9, 0.5);
+    /*box-shadow effect by Frederico Dossena */
+    box-shadow: inset 0 -0.6em 1em -0.35em rgba(0,0,0,0.17),inset 0 0.6em 2em -0.3em rgba(255,255,255,0.15),inset 0 0 0em 0.05em rgba(255,255,255,0.12);
+}
+
+.Frame-Button:hover {
+    border: solid 1px black;
+}

@@ -1,0 +1,41 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`matches snapshot 1`] = `
+<DocumentFragment>
+  <div
+    class="Frame"
+  >
+    <div
+      class="Banner"
+    >
+      <h1>
+        Coin Flip App
+      </h1>
+    </div>
+    <div
+      class="Coin"
+    >
+      <img
+        alt="coin-heads"
+        class="Coin-Image"
+        src="https://images.pexels.com/photos/7702774/pexels-photo-7702774.jpeg?auto=compress&cs=tinysrgb&dpr=2&w=500"
+      />
+    </div>
+    <button
+      class="Frame-Button"
+    >
+      Flip the coin!
+    </button>
+    <div
+      class="InfoBar"
+    >
+      <p>
+        Heads: 0
+      </p>
+      <p>
+        Tails: 0
+      </p>
+    </div>
+  </div>
+</DocumentFragment>
+`;
